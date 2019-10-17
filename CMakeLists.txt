@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.9)
-project(Interval Algebra)
+project(IA)
 
 # Find includes in corresponding build directories
 set(CMAKE_INCLUDE_CURRENT_DIR ON)
